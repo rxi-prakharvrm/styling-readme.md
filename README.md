@@ -1,2 +1,2 @@
 # Style Readme.md
-![This is an image](rxi-prakharvrm/illustration programmer.png)
+![This is an image](illustration programmer.png)
